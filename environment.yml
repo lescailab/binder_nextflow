@@ -1,0 +1,19 @@
+name: teaching-nextflow
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - nextflow
+  - nf-core
+  - conda-forge::biopython
+  - conda-forge::markdown
+  - conda-forge::pymdown-extensions
+  - conda-forge::pygments
+  - bioconda::fastqc
+  - bioconda::multiqc
+  - samtools
+  - bwa
+  - pip
+  - pip:
+    - bash_kernel
