@@ -1,3 +1,2 @@
 #!/bin/bash
 python -m bash_kernel.install
-alias docker='podman'
