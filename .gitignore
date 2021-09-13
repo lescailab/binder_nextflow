@@ -1,3 +1,10 @@
+# Nextflow files
+/work/
+.log*
+/*.nextflow.*
+
+
+
 # History files
 .Rhistory
 .Rapp.history
