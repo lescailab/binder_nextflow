@@ -13,7 +13,6 @@ dependencies:
   - bioconda::fastqc
   - samtools
   - bwa
-  - podman
   - pip
   - pip:
     - bash_kernel
