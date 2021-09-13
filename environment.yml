@@ -11,9 +11,9 @@ dependencies:
   - conda-forge::pymdown-extensions
   - conda-forge::pygments
   - bioconda::fastqc
-  - bioconda::multiqc
   - samtools
   - bwa
+  - podman
   - pip
   - pip:
     - bash_kernel
