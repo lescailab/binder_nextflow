@@ -1,7 +1,9 @@
 # Nextflow files
 /work/
-.log*
+/*.log*
 /*.nextflow.*
+.nextflow/
+.nextflow-console.log*
 
 
 
